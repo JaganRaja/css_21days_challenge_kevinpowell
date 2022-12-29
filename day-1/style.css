@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin:0;
+    font-family: sans-serif;
+}
+
+.parent {
+    background-color: #23424A;
+    padding: 50px;
+    width: 80%;
+    margin: 20px auto; 
+}
+
+.child {
+    background-color: #38CFD9;
+    height: 50px;
+    width: 50%;
+}
+
+.container {
+    background-color: #23424A;
+    color: white;
+
+    width: 80%;
+    margin: 20px auto;
+
+    /* height: 300px; */
+
+    padding: 5em;
+}
+
